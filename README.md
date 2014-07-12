@@ -1,4 +1,4 @@
 python-test
 ===========
-All of this are examples in the book A Byte of Python.
-The url is http://sebug.net/paper/python/index.html .
+All of these code are examples in the book A Byte of Python.
+This is a book that is available online at the following url:http://sebug.net/paper/python/index.html
